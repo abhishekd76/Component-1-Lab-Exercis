@@ -1,3 +1,4 @@
+
 DessertClicker - Code
 =====================
 
@@ -26,3 +27,4 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+![basic](https://github.com/abhishekd76/Component-1-Lab-Exercis/assets/117585209/9c377eb8-5997-490d-9d74-72e4e7e3840d)
